@@ -1,15 +1,15 @@
 
 var names=new Array();
-names[0]="Prem";
-names[1]="Modha";
-names[2]="ram";
-names[3]="shyam";
-names[4]="raju";
-names[5]="bheem";
-names[6]="chutki";
-names[7]="dholu";
-names[8]="bholu";
-names[9]="Kaliya";
+names[0]= "Yaakov";
+names[1]="John";    
+names[2]="Jen";     
+names[3]="Jason";   
+names[4]="Paul";    
+names[5]="Frank";   
+names[6]="Larry";   
+names[7]="Paula";   
+names[8]="Laura";   
+names[9]="Jim";     
 
 
 for (var i = 0; i < names.length; i++) {
@@ -20,3 +20,4 @@ for (var i = 0; i < names.length; i++) {
 		console.log("Hello "+ names[i])
 	}
 }
+
